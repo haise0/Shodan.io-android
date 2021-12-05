@@ -1,5 +1,5 @@
 # Shodan.io-mobile-app
-Official repository for the Shodan.io mobile Application
+Unofficial repository for an updated Shodan.io mobile application. Only building for Android. 
 
 The Android version can actually be found [here](https://play.google.com/store/apps/details?id=io.shodan.app). 
 The iOS version is not available anymore since Apple subscription was really expensive for such few users. 
@@ -50,6 +50,6 @@ For this, use the command:
 bower update
 ```
 
-# Contact me? 
+# Contact
 
-If you want to contact me, use my twitter handle: [@PaulWebSec](https://twitter.com/PaulWebSec) 
+If you want to contact the original author, use his twitter handle: [@PaulWebSec](https://twitter.com/PaulWebSec) 
